@@ -1,0 +1,33 @@
+.center {
+    text-align: center;
+}
+
+p.big {
+    font-size:xx-large;
+}
+
+p.tiny {
+    font-size: x-small;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.mono {
+    font-family: monospace;
+}
+
+.styledFont{
+    color:palevioletred;
+}
+
+.orange {
+    color: orange;
+}
+
+#styledImage {
+    border-width: thick; 
+    border-style: groove; 
+    border-color: springgreen;
+}
